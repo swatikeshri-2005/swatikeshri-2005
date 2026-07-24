@@ -10,11 +10,6 @@ EMAIL: swatikeshri2005@gmail.com
 ![](https://streak-stats.demolab.com/?user=swatikeshri-2005&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=swatikeshri-2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=swatikeshri-2005&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://komarev.com/ghpvc/?username=swatikeshri-2005&icon=0&color=0)](https://visitcount.itsvg.in)
